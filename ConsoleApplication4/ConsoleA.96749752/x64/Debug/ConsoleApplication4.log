@@ -1,0 +1,42 @@
+﻿  ConsoleApplication4.cpp
+C:\Users\aldawlia\source\repos\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(207,33): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\Users\aldawlia\source\repos\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(207,33): warning C4305:         with
+C:\Users\aldawlia\source\repos\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(207,33): warning C4305:         [
+C:\Users\aldawlia\source\repos\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(207,33): warning C4305:             _Ty=float
+C:\Users\aldawlia\source\repos\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(207,33): warning C4305:         ]
+C:\Users\aldawlia\source\repos\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(207,40): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\Users\aldawlia\source\repos\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(207,40): warning C4305:         with
+C:\Users\aldawlia\source\repos\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(207,40): warning C4305:         [
+C:\Users\aldawlia\source\repos\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(207,40): warning C4305:             _Ty=float
+C:\Users\aldawlia\source\repos\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(207,40): warning C4305:         ]
+C:\Users\aldawlia\source\repos\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(207,47): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\Users\aldawlia\source\repos\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(207,47): warning C4305:         with
+C:\Users\aldawlia\source\repos\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(207,47): warning C4305:         [
+C:\Users\aldawlia\source\repos\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(207,47): warning C4305:             _Ty=float
+C:\Users\aldawlia\source\repos\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(207,47): warning C4305:         ]
+C:\Users\aldawlia\source\repos\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(207,54): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\Users\aldawlia\source\repos\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(207,54): warning C4305:         with
+C:\Users\aldawlia\source\repos\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(207,54): warning C4305:         [
+C:\Users\aldawlia\source\repos\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(207,54): warning C4305:             _Ty=float
+C:\Users\aldawlia\source\repos\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(207,54): warning C4305:         ]
+C:\Users\aldawlia\source\repos\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(207,62): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\Users\aldawlia\source\repos\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(207,62): warning C4305:         with
+C:\Users\aldawlia\source\repos\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(207,62): warning C4305:         [
+C:\Users\aldawlia\source\repos\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(207,62): warning C4305:             _Ty=float
+C:\Users\aldawlia\source\repos\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(207,62): warning C4305:         ]
+C:\Users\aldawlia\source\repos\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(207,69): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\Users\aldawlia\source\repos\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(207,69): warning C4305:         with
+C:\Users\aldawlia\source\repos\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(207,69): warning C4305:         [
+C:\Users\aldawlia\source\repos\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(207,69): warning C4305:             _Ty=float
+C:\Users\aldawlia\source\repos\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(207,69): warning C4305:         ]
+C:\Users\aldawlia\source\repos\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(207,76): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\Users\aldawlia\source\repos\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(207,76): warning C4305:         with
+C:\Users\aldawlia\source\repos\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(207,76): warning C4305:         [
+C:\Users\aldawlia\source\repos\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(207,76): warning C4305:             _Ty=float
+C:\Users\aldawlia\source\repos\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(207,76): warning C4305:         ]
+C:\Users\aldawlia\source\repos\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(207,96): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\Users\aldawlia\source\repos\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(207,96): warning C4305:         with
+C:\Users\aldawlia\source\repos\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(207,96): warning C4305:         [
+C:\Users\aldawlia\source\repos\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(207,96): warning C4305:             _Ty=float
+C:\Users\aldawlia\source\repos\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(207,96): warning C4305:         ]
+  ConsoleApplication4.vcxproj -> C:\Users\aldawlia\source\repos\ConsoleApplication4\ConsoleApplication4\x64\Debug\ConsoleApplication4.exe
